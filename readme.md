@@ -12,13 +12,13 @@ For more information check out our website and check out the individual lessons 
 
 **8/3/2020**
 
-[Lesson 1: Hello, World!](https://www.coolenough2code.com/2020/08/03/lesson-1-hello-world-and-basic-programming-lingo-with-python/)
+[Lesson 1: Hello, World!](https://www.youtube.com/watch?v=WqC6eiOhdTc)
 
 Hello World! Setting up tools and a walk-through of basic programming terminology
 
 **8/10/2020**
 
-Lesson 2: Variables and Types
+[Lesson 2: Variables and Types](https://www.youtube.com/watch?v=YiICnddENso)
 
 Learn the basic data types in Python and how to create and assign variables.
 
