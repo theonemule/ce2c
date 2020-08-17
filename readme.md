@@ -24,13 +24,13 @@ Learn the basic data types in Python and how to create and assign variables.
 
 **8/17/2020**
 
-Lesson 3: Basic Operators
+[Lesson 3: Basic Operators](https://youtu.be/imvgER86ix0)
 
 Learn to manipulate variables with basic mathematical functions like add, subtract, multiply, and divide
 
 **8/24/2020**
 
-**Lesson 4: Conditions**
+Lesson 4: Conditions
 
 Control program flow with conditions like if statements and case switches.
 
