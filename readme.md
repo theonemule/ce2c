@@ -30,7 +30,7 @@ Learn to manipulate variables with basic mathematical functions like add, subtra
 
 **8/24/2020**
 
-Lesson 4: Conditions
+[Lesson 4: Conditions](https://youtu.be/MaBe3WjKutw)
 
 Control program flow with conditions like if statements and case switches.
 
