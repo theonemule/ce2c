@@ -36,7 +36,7 @@ Control program flow with conditions like if statements and case switches.
 
 **8/31/2020**
 
-Lesson 5: Loops
+[Lesson 5: Loops](https://youtu.be/KYUZqN4q0-Q)
 
 Make code reusable with loops that can perform the same task over and over.
 
