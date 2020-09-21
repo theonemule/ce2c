@@ -54,7 +54,7 @@ Manage collections of data using lists and then use program flows to work on tho
 
 **9/21/2020**
 
-[Lesson 7: Dictionaries](https://youtu.be/2YgP7STJywI)
+[Lesson 7: Dictionaries](https://youtu.be/RB4yNLfoHL8)
 
 Dictionaries are like lists, except they are index key keys.
 
