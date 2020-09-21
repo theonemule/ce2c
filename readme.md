@@ -48,13 +48,13 @@ NO-LIVESTREAM
 
 **9/14/2020**
 
-Lesson 6: Lists and Tuples
+[Lesson 6: Lists and Tuples](https://youtu.be/BYWTclc_0HQ)
 
 Manage collections of data using lists and then use program flows to work on those lists.
 
 **9/21/2020**
 
-Lesson 7: Dictionary
+[Lesson 7: Dictionaries](https://youtu.be/2YgP7STJywI)
 
 Dictionaries are like lists, except they are index key keys.
 
